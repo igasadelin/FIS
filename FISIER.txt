@@ -1,2 +1,9 @@
 Vlad are pere
 Vlad vrea mere.
+Let's do something new
+I will write some new code here
+
+#include<JesusInYourLife>{
+
+    return toHeaven;
+}
